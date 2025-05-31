@@ -12,7 +12,7 @@
 ## 🧰 Hardware Requirements
 
 - Arduino Uno
-- MPU6050 (Gyroscope + Accelerometer)
+- MPU6050
 - Motor Driver L298N
 - DC Motors x2
 - ล้อ (Wheels)
